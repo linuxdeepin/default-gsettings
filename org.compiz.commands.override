@@ -1,0 +1,7 @@
+[org.compiz.commands]
+command20="/usr/bin/launcher"
+command19="/usr/bin/dss"
+command18="desktop-show"
+run-command20-edge="TopLeft"
+run-command19-edge="BottomRight"
+run-command18-edge="BottomLeft"
