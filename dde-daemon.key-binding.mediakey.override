@@ -1,6 +1,5 @@
 [com.deepin.dde.key-binding.mediakey]
 audio-forward='XF86AudioForward'
-audio-rand-play='XF86AudioRandomPlay'
 audio-repeat='XF86AudioRepeat'
 audio-rewind='XF86AudioRewind'
 battery='XF86Battery'
