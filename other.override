@@ -1,9 +1,3 @@
-[com.deepin.dde.desktop]
-show-dsc-icon=false
-
-[com.deepin.dde.dock]
-background-color=50
-
 [org.compiz.gwd]
 metacity-theme-active-opacity=1.0
 metacity-theme-inactive-opacity=1.0
