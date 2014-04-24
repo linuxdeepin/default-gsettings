@@ -111,3 +111,6 @@ unmaximize=['<Alt>F6']
 
 [org.gnome.desktop.default-applications.terminal]
 exec='x-terminal-emulator'
+
+[org.gnome.desktop.media-handling]
+automount-open=false
