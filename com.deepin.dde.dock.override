@@ -1,3 +1,4 @@
 [com.deepin.dde.dock]
-docked-apps=['deepin-software-center','deepin-game-center','deepin-music-player','dtalk','deepin-movie','google-chrome','nautilus']
+docked-apps=['deepin-software-center','deepin-game-center','deepin-music-player','deepin-movie','google-chrome','nautilus',
+	'dde-control-center']
 hide-mode='keep-showing'
