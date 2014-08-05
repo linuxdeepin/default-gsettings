@@ -1,0 +1,13 @@
+Source: deepin-gsettings
+Section: libs
+Priority: extra
+Maintainer: Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), python-dev, libglib2.0-dev, python-setuptools
+Standards-Version: 3.9.2
+Homepage: http://www.linuxdeepin.com
+
+Package: python-deepin-gsettings
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: deepin gsettings python bindings
+ deepin gsettings python2 bindings from git

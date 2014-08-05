@@ -1,0 +1,63 @@
+deepin-gsettings (0.2-20140504142600~a64de3ac19) trusty; urgency=medium
+
+  * Build from git a64de3ac195fe8d5878a07f2e862a058d49ce16d
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Sun, 04 May 2014 14:26:00 +0800
+
+deepin-gsettings (0.1+git20131206094009~a64de3ac19) saucy; urgency=low
+
+  * Build from git revision a64de3ac195fe8d5878a07f2e862a058d49ce16d
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Fri, 06 Dec 2013 09:40:09 +0800
+
+deepin-gsettings (0.1+git20131016204258~a64de3ac19) raring; urgency=low
+
+  * Build from git revision a64de3ac195fe8d5878a07f2e862a058d49ce16d
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 16 Oct 2013 20:42:58 +0800
+
+deepin-gsettings (0.1+git20130318115600) raring; urgency=low
+
+  [ Yueqian Zhang ]
+  * Upstreamer update
+
+  [ Deepin Testing Packages ]
+  * Just build for raring
+
+ -- Deepin Testing Packages <testing@linuxdeepin.com>  Mon, 06 May 2013 13:30:59 +0800
+
+deepin-gsettings (0.1+git20130314104520) quantal; urgency=low
+
+  * Upstreamer update
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 14 Mar 2013 10:45:20 +0800
+
+deepin-gsettings (0.1+git20130313153308) quantal; urgency=low
+
+  * Upstreamer update
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Wed, 13 Mar 2013 15:33:08 +0800
+
+deepin-gsettings (0.1+git20121217085357) quantal; urgency=low
+
+  * Upstreamer update
+
+ -- Li Longyu (Ai Kotoba) <leaeasy@gmail.com>  Mon, 17 Dec 2012 08:53:57 +0800
+
+deepin-gsettings (0.1+git20121212085505) quantal; urgency=low
+
+  * Upstreamer update
+
+ -- Li Longyu (Ai Kotoba) <leaeasy@gmail.com>  Wed, 12 Dec 2012 08:55:05 +0800
+
+deepin-gsettings (0.1+git20121206104048) quantal; urgency=low
+
+  * Upstreamer update
+
+ -- Li Longyu (Ai Kotoba) <leaeasy@gmail.com>  Thu, 06 Dec 2012 10:40:48 +0800
+
+deepin-gsettings (0.1) quantal; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Li Longyu (Ai Kotoba) <leaeasy@gmail.com>  Thu, 06 Dec 2012 10:32:36 +0800
