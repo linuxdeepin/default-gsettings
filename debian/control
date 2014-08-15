@@ -1,13 +1,13 @@
-Source: deepin-gsettings
-Section: libs
-Priority: extra
-Maintainer: Li Longyu (Ai Kotoba) <leaeasy@gmail.com>
-Build-Depends: debhelper (>= 8.0.0), python-dev, libglib2.0-dev, python-setuptools
-Standards-Version: 3.9.2
-Homepage: http://www.linuxdeepin.com
+Source: deepin-default-gsettings
+Section: admin
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/linuxdeepin/default-gsettings.git
 
-Package: python-deepin-gsettings
-Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: deepin gsettings python bindings
- deepin gsettings python2 bindings from git
+Package: deepin-default-gsettings
+Architecture: all
+Depends: ${misc:Depends}
+Description: deepin default settings of gsettings
+ This package contails gsettings override to config the system to deepin default.
