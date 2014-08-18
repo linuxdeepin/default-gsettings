@@ -1,4 +1,4 @@
-[com.deepin.dde.key-binding.mediakey]
+[com.deepin.dde.keybinding.mediakey]
 audio-forward='XF86AudioForward'
 audio-repeat='XF86AudioRepeat'
 audio-rewind='XF86AudioRewind'
