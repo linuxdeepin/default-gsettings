@@ -1,9 +1,0 @@
-[com.deepin.dde.personalization]
-cross-fade-auto-interval=1000
-cross-fade-auto-mode='Sequential'
-cross-fade-interval=1000
-cross-fade-manual-interval=1000
-current-picture='file:///usr/share/backgrounds/default_background.jpg'
-current-sound-theme='LinuxDeepin'
-current-theme='Deepin'
-draw-mode='Scaling'
