@@ -1,0 +1,3 @@
+[com.deepin.dde.launcher]
+category-display-mode='icon'
+sort-method='category'
