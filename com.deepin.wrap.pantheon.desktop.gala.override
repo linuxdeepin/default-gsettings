@@ -1,0 +1,36 @@
+[com.deepin.wrap.pantheon.desktop.gala.appearance]
+button-layout='menu:minimize,maximize,close'
+
+[com.deepin.wrap.pantheon.desktop.gala.animations]
+enable-animations=true
+open-duration=350
+snap-duration=250
+close-duration=300
+menu-duration=150
+minimize-duration=200
+workspace-switch-duration=300
+
+[com.deepin.wrap.pantheon.desktop.gala.behavior]
+dynamic-workspaces=false
+dock-names=['plank']
+window-overview-type='grid'
+panel-main-menu-action=''
+hotcorner-custom-command=''
+hotcorner-bottomright='none'
+hotcorner-topright='none'
+hotcorner-bottomleft='none'
+hotcorner-topleft='none'
+
+[com.deepin.wrap.pantheon.desktop.gala.keybindings]
+expose-windows=['<Super>w']
+expose-all-windows=['<Super>a']
+preview-workspace=['<Super>s']
+switch-input-source=['<Super>space']
+cycle-workspaces-next=['<Super>Tab']
+cycle-workspaces-previous=['<Super><Shift>Tab']
+zoom-in=['<Super>plus', '<Super>KP_Add']
+zoom-out=['<Super>minus', '<Super>KP_Subtract']
+move-to-workspace-first=['<Super><Shift>Home', '<Control><Alt><Shift>Home']
+move-to-workspace-last=['<Super><Shift>End', '<Control><Alt><Shift>End']
+switch-to-workspace-first=['<Super>Home', '<Control><Alt>Home']
+switch-to-workspace-last=['<Super>End', '<Control><Alt>End']
