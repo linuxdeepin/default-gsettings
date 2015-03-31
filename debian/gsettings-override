@@ -81,6 +81,7 @@ maximize=['<Super>Up', '<Control><Alt>Up']
 unmaximize=['<Super>Down', '<Control><Alt>Down']
 show-desktop=['<Super>d']
 toggle-maximized=['<Super>m', '<Alt>F10']
+toggle-on-all-workspaces=[]
 cycle-windows=[]
 cycle-windows-backward=[]
 cycle-group=[]
@@ -88,7 +89,7 @@ cycle-group-backward=[]
 panel-main-menu=[]
 panel-run-dialog=['<Alt>F2']
 switch-applications=['<Alt>grave']
-switch-applications-backward=['<Alt>asciitilde']
+switch-applications-backward=['<Alt><Shift>asciitilde']
 switch-windows=['<Alt>Tab']
 switch-windows-backward=['<Alt><Shift>Tab']
 switch-panels=['<Control><Alt>Tab']
@@ -126,6 +127,7 @@ switch-to-workspace-up=[]
 
 [com.deepin.wrap.gnome.mutter]
 auto-maximize=false
+center-new-windows=true
 
 [com.deepin.wrap.gnome.mutter.keybindings]
 toggle-tiled-right=[]
@@ -252,9 +254,7 @@ cursor-theme='Deepin'
 gtk-key-theme='Default'
 gtk-theme='Deepin'
 icon-theme='Deepin'
-menus-have-icons=true
 gtk-im-module='fcitx'
-automatic-mnemonics=false
 
 [org.gnome.desktop.sound]
 theme-name='LinuxDeepin'

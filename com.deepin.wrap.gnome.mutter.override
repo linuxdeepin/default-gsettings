@@ -1,5 +1,6 @@
 [com.deepin.wrap.gnome.mutter]
 auto-maximize=false
+center-new-windows=true
 
 [com.deepin.wrap.gnome.mutter.keybindings]
 toggle-tiled-right=[]
