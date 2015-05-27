@@ -5,7 +5,7 @@ exec='x-terminal-emulator'
 automount-open=false
 
 [org.gnome.desktop.background]
-show-desktop-icons=true
+show-desktop-icons=false
 picture-uri='file:///usr/share/backgrounds/default_background.jpg'
 picture-options='zoom'
 
