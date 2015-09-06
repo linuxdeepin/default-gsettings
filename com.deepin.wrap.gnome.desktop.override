@@ -10,6 +10,7 @@ event-sounds=true
 [com.deepin.wrap.gnome.desktop.wm.preferences]
 theme='Deepin'
 audible-bell=false
+mouse-button-modifier='<Alt>'
 
 [com.deepin.wrap.gnome.desktop.interface]
 cursor-theme='Deepin'
