@@ -1,0 +1,6 @@
+[com.deepin.wrap.gnome.metacity]
+theme='Deepin'
+
+[com.deepin.wrap.gnome.metacity.keybindings]
+toggle-tiled-right=[]
+toggle-tiled-left=[]
