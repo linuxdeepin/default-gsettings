@@ -2,7 +2,8 @@
 exec='x-terminal-emulator'
 
 [org.gnome.desktop.media-handling]
-automount-open=false
+automount=true
+automount-open=true
 
 [org.gnome.desktop.background]
 show-desktop-icons=false
