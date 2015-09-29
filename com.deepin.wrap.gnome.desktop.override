@@ -23,6 +23,7 @@ gtk-im-module='fcitx'
 close=['<Alt>F4']
 maximize=['<Super>Up', '<Control><Alt>Up']
 unmaximize=['<Super>Down', '<Control><Alt>Down']
+minimize=[]
 show-desktop=['<Super>d']
 toggle-maximized=['<Super>m', '<Alt>F10']
 toggle-on-all-workspaces=[]
