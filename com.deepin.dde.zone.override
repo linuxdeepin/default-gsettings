@@ -5,7 +5,7 @@ right-down="dbus-send --print-reply --dest=com.deepin.dde.ControlCenter /com/dee
 right-up=""
 left-up-delay=300
 left-down-delay=300
-right-uo-delay=300
+right-up-delay=300
 right-down-delay=300
 black-list=['pyrogenesis','0ad']
 white-list=['dde-launcher']
