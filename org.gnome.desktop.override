@@ -27,7 +27,7 @@ theme='Deepin'
 audible-bell=false
 
 [org.gnome.desktop.wm.keybindings]
-activate-window-menu=['<Alt>space']
+activate-window-menu=['<Alt>Space']
 begin-move=['<Alt>F8']
 begin-resize=['<Alt>F9']
 close=['<Alt>F4']
@@ -72,7 +72,7 @@ panel-run-dialog=[]
 raise=[]
 raise-or-lower=[]
 set-spew-mark=[]
-show-desktop=['<Super>d']
+show-desktop=['<Super>D']
 switch-group=[]
 switch-group-backward=[]
 switch-panels=[]
